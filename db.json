@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "shreya123",
+      "email": "shreya@123",
+      "password": "shreya",
+      "gender": "Female",
+      "dob": "2000-08-25T18:30:00.000Z",
+      "phone": "7415530008",
+      "skills": "Angular Advanced",
+      "presentaddress": "",
+      "permanentaddress": "",
+      "mothername": "",
+      "fathername": "",
+      "accountname": "",
+      "accountno": 0,
+      "bankname": "",
+      "ifsc": ""
+    },
+    {
+      "id": "shiv",
+      "email": "shivam@26",
+      "password": "shivam",
+      "gender": "Male",
+      "dob": "1995-12-12T18:30:00.000Z",
+      "phone": "7415530008",
+      "skills": "Angular Advanced",
+      "presentaddress": "",
+      "permanentaddress": "",
+      "mothername": "",
+      "fathername": "",
+      "accountname": "",
+      "accountno": 0,
+      "bankname": "",
+      "ifsc": "",
+      "mobilebanking": "",
+      "internetbanking": ""
+    },
+    {
+      "name": "Anjali",
+      "email": "anjali@123",
+      "gender": null,
+      "dob": "1966-03-07T18:30:00.000Z",
+      "phone": "7415530008",
+      "presentaddress": "Bhopal",
+      "permanentaddress": "E-8, Bhopal",
+      "mothername": "Vidhya",
+      "fathername": "Nana",
+      "accountname": "SBI",
+      "accountno": "2345432",
+      "bankname": "",
+      "ifsc": "SBIN1234",
+      "mobilebanking": null,
+      "internetbanking": null,
+      "id": "anju"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
